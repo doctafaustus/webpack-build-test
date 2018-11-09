@@ -1,0 +1,9 @@
+body {
+  div {
+    border: solid 5px red;
+
+    &.wrapper {
+      border: solid 1px green;
+    }
+  }
+}

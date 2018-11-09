@@ -1,0 +1,23 @@
+.DS_Store
+.buildpath
+.project
+.settings
+.sass-cache
+*.bak
+*.orig*.class
+*.pyc
+*.pyo
+*.js.map
+*.css.map
+.eslintrc
+*.ini
+bower_components
+
+/node_modules
+
+# Sublime
+*.sublime-workspace
+
+npm-debug.log
+
+/graphics
